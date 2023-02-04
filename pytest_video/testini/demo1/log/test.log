@@ -1,0 +1,4 @@
+2021-10-17 15:45:10 [INFO] 这是 demo2 测试用例 (test_first.py:26)
+2021-10-17 15:45:10 [INFO] 这是 demo1 测试用例 (test_first.py:22)
+2021-10-17 15:45:10 [INFO] 这是 answer 测试用例 (test_first.py:15)
+2021-10-17 15:45:10 [INFO] 断言 assert inc(3) == 5  (test_first.py:16)

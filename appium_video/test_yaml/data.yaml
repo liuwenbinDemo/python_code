@@ -1,0 +1,9 @@
+#a:
+#  true
+#b:
+#  false
+- params:
+  expression: (exception.dns_aaa == true)
+
+- params1:
+  expression: (exception.dns_aaa == true and abc.cde > 1000)
